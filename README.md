@@ -6,7 +6,7 @@ ok google
 3rd commit.
 
 1st commit.
-2nd commit for today,remember it for now.
+2nd commit for today,you will be successful in life.
 3rd.
 1st comment
 2nd cmmment
