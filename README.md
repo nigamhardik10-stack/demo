@@ -10,7 +10,6 @@ ok google
 3rd.
 1st comment
 2nd cmmment
-3rd.
 1st commit 
 2nd communication 
 1st c.
