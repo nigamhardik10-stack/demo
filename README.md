@@ -9,4 +9,4 @@ ok google
 2nd commit for today,you will be successful in life.
 jehehe
 1st c.
-1st comment 
+1st commit 
