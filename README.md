@@ -12,7 +12,7 @@ hteer
 1st commit of the day.f68duzrur
 2nd commit of the day.
 3rd commit of the day.
-1st commit.fff
+1st commit.f
 3rd commit.
 1st commit 
 2nd commit gfff
