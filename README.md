@@ -9,7 +9,7 @@ hteer
 2nd commit for today,you will be successful in life
 1st commit 
 1st commit 
-1st commit of the day.f68duzrur
+1st commit of the day.Hcl
 2nd commit of the day.
 3rd commit of the day.
 1st commit.f
