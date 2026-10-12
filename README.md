@@ -10,8 +10,7 @@ hteer
 1st commit 
 1st commit 
 1st commit of the day.Hcl
-2nd commit of the day.
-3rd commit of the day.
+2ghhhv
 1st commit.f
 3rd commit.
 1st commit 
