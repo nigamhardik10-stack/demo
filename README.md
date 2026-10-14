@@ -9,8 +9,7 @@ hteer
 2nd commit for today,you will be successful in life
 1st commit 
 1st commit 
-1st commit of the day.Hcl
-2ghhhv
+1st commit of the day.
 1st commit.
 3rd commit.
 1st commit 
