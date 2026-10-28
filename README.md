@@ -9,7 +9,7 @@ hteer
 1st commit 
 1st commit 
 1st commit of the day.
-1st commit.
+1st gg ka hai na timing 
 3rd commit.
 1st commit 
 2nd commit ggv
@@ -18,6 +18,8 @@ hteer
 1st year vvh 
 2nd commit ggv me jehebeb to you Bhai 😌 
 3rd comm
+gfxccvig
+gcc
 1st commit
 uhixtitgjxtixgixtuxa36jfx
 yyrhrhd
