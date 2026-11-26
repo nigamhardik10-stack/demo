@@ -33,5 +33,4 @@ zmyntztntn
 1st comment 
 
 2 communication 
-hg
-iyxigcckg
+
