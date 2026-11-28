@@ -1,3 +1,3 @@
 print("Hello world")
 print("Python")
-print("")
+print("index")
